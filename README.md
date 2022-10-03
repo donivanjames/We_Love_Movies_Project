@@ -35,5 +35,3 @@ npm run start:dev
 ```javascript
 localhost:5000
 ```
-
-For the front end application that goes with this server please see this repository: https://github.com/xjuneau1/starter-movie-front-end
