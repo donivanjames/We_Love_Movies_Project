@@ -36,16 +36,4 @@ npm run start:dev
 localhost:5000
 ```
 
-<p>There are many paths you can view, below is a list of all of them:</p>
-
-```javascript
-/movies
-/movies/1
-/movies/1/theaters
-/movies/1/reviews
-/theaters
-```
-
-<p>For "movies/1" the number after the word may be any number from 1-16</p>
-
 For the front end application that goes with this server please see this repository: https://github.com/xjuneau1/starter-movie-front-end
