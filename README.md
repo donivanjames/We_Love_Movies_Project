@@ -1,9 +1,13 @@
 <h1>We Love Movies</h1>
 A site made to show users a list of movies pulled from the databases of different imaginary theaters.
-![image](https://user-images.githubusercontent.com/76602007/197614017-d67104f4-253e-4416-a8be-67db183125a5.png)
+
+![image](https://user-images.githubusercontent.com/76602007/197617857-f98fbf8c-1e1e-4a27-b242-e3f421539030.png)
+
+
 
 You can list by all theaters:
-(The Pan's Labrynth image link broke after deployment)
+<br>(The Pan's Labrynth image link broke after deployment)
+
 ![image](https://user-images.githubusercontent.com/76602007/197614731-4f0d090c-39d2-4a64-8fc8-b2c55a367d5a.png)
 
 
