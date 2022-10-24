@@ -6,7 +6,7 @@
 
 
 <h3>You can list by all theaters:</h3>
-<br>(The Pan's Labrynth image link broke after deployment)
+(The Pan's Labrynth image link broke after deployment)
 
 ![image](https://user-images.githubusercontent.com/76602007/197614731-4f0d090c-39d2-4a64-8fc8-b2c55a367d5a.png)
 
