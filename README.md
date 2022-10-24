@@ -1,4 +1,19 @@
 <h1>We Love Movies</h1>
+
+![image](https://user-images.githubusercontent.com/76602007/197614017-d67104f4-253e-4416-a8be-67db183125a5.png)
+
+
+
+![image](https://user-images.githubusercontent.com/76602007/197614283-5974d389-9775-4a5d-959d-9a8fe692bd66.png)
+
+
+
+
+
+
+
+<h1>Setup</h1>
+
 <p>This project includes all the code needed to set up a Database, an API, and server routing using PostgreSQL, Express.js and Knex.js.</p>
 
 <p>The project uses information about movies, movie theaters, movie critics, and movie reviews to populate a database from which information can be retrieved and formatted into a RESTful API. The API can then be accessed by a front-end application to allow end-users to interact with the information in a more natural way.</p>
