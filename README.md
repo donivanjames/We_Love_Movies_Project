@@ -1,11 +1,10 @@
 <h1>We Love Movies</h1>
-A site made to show users a list of movies pulled from the databases of different imaginary theaters.
+<h3>A site made to show users a list of movies pulled from the databases of different imaginary theaters.</h3>
+<br>
+![image](https://user-images.githubusercontent.com/76602007/197618035-b7e8d5b8-bbd3-4fd7-a992-74c86cdcd497.png)
 
-![image](https://user-images.githubusercontent.com/76602007/197617857-f98fbf8c-1e1e-4a27-b242-e3f421539030.png)
 
-
-
-You can list by all theaters:
+<h3>You can list by all theaters:</h3>
 <br>(The Pan's Labrynth image link broke after deployment)
 
 ![image](https://user-images.githubusercontent.com/76602007/197614731-4f0d090c-39d2-4a64-8fc8-b2c55a367d5a.png)
