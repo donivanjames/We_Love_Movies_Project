@@ -1,7 +1,8 @@
 <h1>We Love Movies</h1>
 <h3>A site made to show users a list of movies pulled from the databases of different imaginary theaters.</h3>
 <br>
-![image](https://user-images.githubusercontent.com/76602007/197618035-b7e8d5b8-bbd3-4fd7-a992-74c86cdcd497.png)
+
+![image](https://user-images.githubusercontent.com/76602007/197619239-f6ed73f7-2e2b-4c59-85a4-f024d7e08603.png)
 
 
 <h3>You can list by all theaters:</h3>
